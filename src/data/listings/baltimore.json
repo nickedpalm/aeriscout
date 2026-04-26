@@ -1,0 +1,176 @@
+[
+  {
+    "slug": "hillis-carnes-engineering-associates-baltimore",
+    "name": "Hillis-Carnes Engineering Associates",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "1609004905",
+    "website": "https://www.hcea.com/service/drone-inspections/",
+    "email": "jeverd@hcea.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Engineering firm offering drone inspection services for more efficient, cost-effective, reliable inspections.",
+    "certifications": [],
+    "services": [
+      "drone inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:43",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [
+        "sophisticated technology",
+        "drone capabilities",
+        "data collection",
+        "innovative",
+        "advanced methods"
+      ],
+      "highlights": [
+        {
+          "text": "taking it up a notch and adding drone capabilities to the mix",
+          "sentiment": "positive"
+        },
+        {
+          "text": "most sophisticated methods of data collection, analysis, and evaluation",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Client praises HCEA's sophisticated technology and innovative approach to advancing data collection and analysis with drone capabilities."
+    }
+  },
+  {
+    "slug": "mid-atlantic-drone-services-llc-baltimore",
+    "name": "Mid-Atlantic Drone Services LLC",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "6331958688",
+    "website": "https://www.mid-atlanticdroneservices.com/home",
+    "email": "user@domain.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert in drone inspections, mapping, surveying using 4K and thermal infrared technology for roofs, infrastructure, utility lines, solar, construction progress; aerial photo and video.",
+    "certifications": [],
+    "services": [
+      "roof inspections",
+      "infrastructure inspections",
+      "utility line inspections",
+      "solar inspections",
+      "construction monitoring"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:43",
+    "sentiment": null
+  },
+  {
+    "slug": "vsi-aerial-llc-baltimore",
+    "name": "VSI Aerial LLC",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "2545352419",
+    "website": "https://www.vsiaerial.com/maryland-drone-services",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers drone services throughout Maryland including aerial photography, videography for real estate, construction progress tracking, inspections for roofs, facades, power lines, confined spaces; industrial cleaning drones.",
+    "certifications": [],
+    "services": [
+      "roof inspections",
+      "facade inspections",
+      "power line inspections",
+      "construction site inspections",
+      "real estate photography"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:43",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [
+        "responsive",
+        "knowledgeable",
+        "professional",
+        "outstanding",
+        "reachable",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "Geoff is outstanding in what he does and the best thing is that he's reachable!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "He's responsive and is very knowledgeable in his profession",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I recommend him to anyone!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "VSI Aerial LLC receives enthusiastic praise for responsive, knowledgeable service and outstanding aerial photography work, with reviewers consistently recommending Geoff."
+    }
+  },
+  {
+    "slug": "volatus-unmanned-services-baltimore",
+    "name": "Volatus Unmanned Services",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "1712780892",
+    "website": "https://connexicore.com/maryland-drone-services/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides drone services across Maryland including Baltimore, Columbia, Towson, Frederick, Gaithersburg, Bowie, Annapolis; specializes in images, video, data analysis, surveying, mapping.",
+    "certifications": [],
+    "services": [
+      "drone surveying",
+      "mapping",
+      "aerial imaging",
+      "data analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:43",
+    "sentiment": null
+  }
+]

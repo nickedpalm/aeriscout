@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "aeroviews-san-diego",
+    "name": "AeroViews",
+    "city": "San Diego",
+    "state": "CA",
+    "address": "",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "phone": "9512251176",
+    "website": "https://aeroviews.co",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Drone photography, videography, mapping, LiDAR services for commercial real estate, construction, agriculture, infrastructure in San Diego, Orange County, Riverside County.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:27",
+    "sentiment": null
+  },
+  {
+    "slug": "birds-eye-aerial-drones-san-diego",
+    "name": "Birds Eye Aerial Drones",
+    "city": "San Diego",
+    "state": "CA",
+    "address": "",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "phone": "1776901762",
+    "website": "https://birdseyeaerialdrones.com",
+    "email": "info@bead.global",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional drone services for inspections, mapping, photography, and imaging in utilities, construction, agriculture, government, and environmental projects across California.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:27",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.97,
+      "keywords": [
+        "professional",
+        "expertise",
+        "quality",
+        "reliable",
+        "flawless",
+        "committed"
+      ],
+      "highlights": [
+        {
+          "text": "couldn't be more impressed with their operational capabilities, commitment to safety, and exceptional quality of their service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The BEAD Team's delivery was flawless...contributed to a successful bid",
+          "sentiment": "positive"
+        },
+        {
+          "text": "absolute game-changer for our project...professionalism and expertise exceeded our expectations",
+          "sentiment": "positive"
+        },
+        {
+          "text": "true professionals...on time, setup quick...made the whole process enjoyable...highly recommend",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Birds Eye Aerial Drones receives overwhelmingly positive feedback across all reviews, with clients consistently praising their professionalism, expertise, flawless delivery, safety commitment, and competitive pricing."
+    }
+  }
+]

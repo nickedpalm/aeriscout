@@ -1,0 +1,124 @@
+[
+  {
+    "slug": "advanced-aerial-solutions-omaha",
+    "name": "Advanced Aerial Solutions",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "(402) 739-5540",
+    "website": "https://advancedaerialsolutionsne.com",
+    "email": "AdvancedAerialSolutions@hotmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional drone photography, aerial video, inspections, real estate, events, weddings, construction services in Omaha, Lincoln, Nebraska and surrounding areas. FAA-certified and fully insured.",
+    "certifications": [],
+    "services": [
+      "aerial photography",
+      "aerial video",
+      "inspections",
+      "real estate",
+      "construction"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:13",
+    "sentiment": null
+  },
+  {
+    "slug": "dronegenius-omaha",
+    "name": "DroneGenius",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "",
+    "website": "https://www.dronegenuity.com/aerial-photography/nebraska/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Nationwide drone services including drone inspections with detail-rich aerial photos & videos for informed decisions. Professional consistency and reliability in Nebraska.",
+    "certifications": [],
+    "services": [
+      "drone inspections",
+      "aerial photography",
+      "aerial video"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:13",
+    "sentiment": null
+  },
+  {
+    "slug": "griffin-drone-solutions-omaha",
+    "name": "Griffin Drone Solutions",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "0432598509",
+    "website": "https://www.griffindronesolutions.com",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "FAA-certified aerial photography & video, lost pet & livestock recovery, visual and thermal inspections for roofs, precision mapping, real estate visuals. Serving Omaha metro and Greater Midwest.",
+    "certifications": [],
+    "services": [
+      "aerial photography & video",
+      "thermal inspections",
+      "precision mapping",
+      "roof inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:13",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "fast turnaround",
+        "quality work",
+        "cost-saving",
+        "innovative",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "Absolute respect for what you have done for my businesses.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Always professional. First in class service.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "You will always have our business and I am always recommending you to others.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Exceptionally positive reviews praising Griffin Drone Solutions for professional service, innovative solutions, fast turnaround, top-quality video content, and strong customer loyalty."
+    }
+  }
+]

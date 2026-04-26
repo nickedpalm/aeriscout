@@ -1,0 +1,148 @@
+---
+title: "How to Review a Drone Inspection Service's Work (Quality Checklist)"
+description: "Most drone inspection service failures happen in data delivery, not the flight. See what a validated report must include — and what to reject."
+pubDate: 2026-04-26
+author: "Nick Palmer"
+tags: ["drone inspection service", "quality", "checklist"]
+hub: "The Complete Guide to Drone Inspection Services"
+---
+
+---
+
+The report landed in my inbox as a 4GB zip file. No annotations. No defect classifications. Just 847 raw photos named `IMG_0001.jpg` through `IMG_0847.jpg`, organized by... nothing, apparently.
+
+The drone inspection had taken three hours. The "deliverable" would take my team three days to make usable. That was the day I started building a checklist.
+
+> **The Short Version:** Most drone inspection deliverables fail not on flight quality but on data organization and analysis depth. A good report maps every finding to a specific location, classifies defects by severity, and integrates with your asset management system. Raw photo dumps are not reports — don't accept them.
+
+**Key Takeaways:**
+- Georgia Power's benchmark: drone inspections found **4.5x more defects** than ground crews at **60% lower cost** — but only because their data pipeline enforced strict validation, screening, and classification
+- The deliverable is the product, not the flight
+- PE endorsement and regulatory compliance are non-negotiable for facade and structural work
+- Turnaround speed matters; 24-48 hours is standard; anything longer needs a documented reason
+
+---
+
+## The Villain Most Clients Miss
+
+The industry has gotten good at selling flight hours. Impressive drone footage, smooth gimbal shots, professional pilots with Part 107 certs — the front end looks great. The back end is where deals fall apart.
+
+Here's what most people miss: the flight is maybe 30% of the value. The other 70% is data processing, annotation, and delivery structure. A vendor who can fly beautifully but delivers unstructured imagery is handing you a second job.
+
+This checklist is your defense against that second job.
+
+---
+
+## Phase 1: Pre-Report Checks (Before You Even Open the Deliverable)
+
+Before reviewing content, verify the basics exist.
+
+| Check | Pass Condition | Red Flag |
+|-------|---------------|----------|
+| Scope confirmation | All requested elevations covered (roof, facades, thermal, courtyards) | Street-facing only; no thermal data |
+| Sensor calibration log | Pre-flight calibration documented | No calibration record |
+| Flight path record | Grid/orbital pattern logged; altitude, speed, overlap specified | No metadata |
+| Weather conditions | Within manufacturer and FAA operating parameters | High wind, rain, poor visibility noted |
+| NOTAM review | Authorization documented | No airspace verification |
+| Insurance/credentials | Active Part 107 cert, liability insurance on file | Can't produce cert on request |
+
+> **Reality Check:** Singapore's Building and Construction Authority requires PE-endorsed reports for any facade inspection on buildings 20+ years from TOP, submitted on a 5-year cycle. If you're in a regulated jurisdiction, credential verification isn't courtesy — it's legal exposure management.
+
+---
+
+## Phase 2: Data Quality Review
+
+This is where most clients fail the vendor when they should be failing the deliverable.
+
+**Image Quality Checklist:**
+- [ ] No motion blur on structural elements
+- [ ] Consistent exposure (no blown highlights on light surfaces, no crushed shadows on dark ones)
+- [ ] Overlap between frames sufficient to reconstruct coverage (typically 70-80% for photogrammetry)
+- [ ] Thermal and RGB captures aligned and timestamped
+- [ ] No coverage gaps along inspection path
+
+**Systematic Coverage:**
+- [ ] All four elevations documented (not just road-facing)
+- [ ] Roof plane fully covered with nadir shots
+- [ ] Detail captures at known problem areas (penetrations, seams, previous repair sites)
+
+> **Pro Tip:** Ask for the flight log file alongside the images. Consumer-grade vendors often can't produce one. Professional operators export telemetry data showing GPS track, altitude, and timestamp for every frame — this is how you verify systematic coverage independently of what they claim.
+
+---
+
+## Phase 3: Analysis and Annotation Quality
+
+The analysis section separates vendors who completed a service from those who delivered value.
+
+**Defect Documentation:**
+- [ ] Every finding annotated with bounding box or marker on the image
+- [ ] Each defect labeled with type (crack, delamination, moisture intrusion, corrosion, vegetation penetration, etc.)
+- [ ] Severity classification applied (Critical / High / Medium / Low or equivalent)
+- [ ] Location data tied to GPS coordinates or structure grid reference
+- [ ] Findings grouped by location, not just chronologically
+
+**Analysis Depth:**
+- [ ] Image comparison against prior inspection (change detection)
+- [ ] 3D point cloud or orthomosaic generated for complex structures
+- [ ] Thermal overlays cross-referenced with RGB for hidden defects
+- [ ] No critical findings buried in appendices
+
+Georgia Power's in-house program validated this standard the hard way: their drone program identified **5,174 abnormal conditions** against ground crews' 1,150 — a 4.5x improvement — and **35 critical conditions** vs. 17. That delta didn't come from better cameras. It came from systematic validation, screening, and classification at every stage.
+
+Data without classification is noise.
+
+---
+
+## Phase 4: Report Structure and Deliverable Format
+
+**Document Structure:**
+- [ ] Executive summary with total defect count by severity
+- [ ] Per-structure or per-zone breakdown (not one giant list)
+- [ ] Recommended action priority (immediate / next maintenance cycle / monitor)
+- [ ] Raw image archive accessible and organized by location
+- [ ] GIS or asset management integration file provided (if applicable)
+
+**Regulatory Compliance:**
+- [ ] PE endorsement included where required
+- [ ] Regulatory submission format matches jurisdiction requirements
+- [ ] All flight authorizations and waivers documented in appendix
+
+> **Reality Check:** "Actionable insights" is a phrase vendors love and rarely define. Your definition: I can hand this report to a maintenance contractor and they know exactly what to fix, in what order, at which location. If that sentence isn't true, the report needs rework.
+
+---
+
+## When to Request Rework (Non-Negotiable Triggers)
+
+Send it back immediately if:
+1. No defect severity classification — unranked findings are unusable for prioritization
+2. Coverage gaps in thermal data when thermal was scoped
+3. Turnaround beyond 48 hours with no prior notice or justification
+4. Findings aren't geotagged or structure-referenced
+5. PE endorsement missing on regulated work
+
+Negotiate a revision if:
+- Minor annotation gaps on low-severity findings
+- Report format doesn't match your asset management system import requirements
+- Image naming convention makes batch processing difficult
+
+---
+
+## Vendor Scoring Benchmark
+
+If you're evaluating multiple vendors, Georgia Power's contractor scoring framework offers a useful scale: **40-50 points** positions a vendor as competitive for top-tier utility contracts; **30-39** signals viability but weakness on data quality, turnaround, or scale. Apply the same logic to your own scoring rubric.
+
+The 14 miles/day, 7-minutes-per-structure benchmark isn't a magic number — but it tells you what systematic, professional-grade operations look like at scale. Use it as a sanity check when a vendor quotes timelines.
+
+---
+
+## Practical Bottom Line
+
+Three things to do before your next inspection:
+
+1. **Send your checklist ahead of time.** Make deliverable requirements explicit in the scope of work, not a post-delivery conversation.
+2. **Review Phase 2 (data quality) first.** If image quality fails, analysis quality is irrelevant — the data can't be recovered after the flight.
+3. **Demand a severity-classified defect register.** Not a photo dump. Not a PDF of images. A structured list you can sort, filter, and act on.
+
+The drone inspection is the easy part. Holding the deliverable to a real standard is where you get the value.
+
+For a broader look at how to hire and vet providers before the job starts, see [The Complete Guide to Drone Inspection Services](/blog/complete-guide-drone-inspection-services/).

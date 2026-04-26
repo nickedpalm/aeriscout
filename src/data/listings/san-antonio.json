@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "alamo-airborne-san-antonio",
+    "name": "Alamo Airborne",
+    "city": "San Antonio",
+    "state": "TX",
+    "address": "",
+    "lat": 29.4241,
+    "lng": -98.4936,
+    "phone": "1776727516",
+    "website": "https://alamoairborne.com/drone-inspection-services/",
+    "email": "info@alamoairborne.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Drone inspections for roofing and solar companies, detailed reports within 24 hours, roof cleaning.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:46",
+    "sentiment": null
+  }
+]

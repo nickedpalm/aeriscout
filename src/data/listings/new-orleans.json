@@ -1,0 +1,125 @@
+[
+  {
+    "slug": "baton-rouge-drones-new-orleans",
+    "name": "Baton Rouge Drones",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "1777132259",
+    "website": "https://www.spectechla.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides advanced, industry-tailored drone solutions across Louisiana and beyond; fully insured, FAA Part 107 certified.",
+    "certifications": [],
+    "services": [
+      "professional drone services",
+      "industry-specific drone solutions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:31",
+    "sentiment": null
+  },
+  {
+    "slug": "building-diagnostics-group-new-orleans",
+    "name": "Building Diagnostics Group",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "(888) 317-4568",
+    "website": "https://www.bdg-usa.com",
+    "email": "contact@bdg-usa.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Multifaceted consulting firm specializing in non-destructive detection of water intrusions using drone UAV thermal inspections for commercial, industrial, and institutional buildings.",
+    "certifications": [],
+    "services": [
+      "UAV drone thermal inspections",
+      "building inspections",
+      "roofing inspections",
+      "moisture investigations"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:31",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "efficient",
+        "problem detection",
+        "cost-saving",
+        "non-intrusive",
+        "informative",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "saved us thousands of dollars and also saved us from a huge headache",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I would never buy another property without this service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Quick, efficient and extremely informative",
+          "sentiment": "positive"
+        },
+        {
+          "text": "instantly answers moisture intrusion questions without intrusive testing",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Building Diagnostics Group receives consistently excellent reviews for efficient, non-invasive diagnostic services that save clients money and provide peace of mind."
+    }
+  },
+  {
+    "slug": "foley-specialty-services-new-orleans",
+    "name": "Foley Specialty Services",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "6889796984",
+    "website": "https://www.foleyss.com",
+    "email": "info@foleyss.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Combines conventional nondestructive testing (NDT) with drone-driven technology for industrial inspections, providing affordable, reliable solutions focused on safety and efficiency.",
+    "certifications": [],
+    "services": [
+      "drone inspections",
+      "NDT/NDE",
+      "unmanned inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:31",
+    "sentiment": null
+  }
+]

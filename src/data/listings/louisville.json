@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "aerial-photography-louisville-louisville",
+    "name": "Aerial Photography Louisville",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2527,
+    "lng": -85.7585,
+    "phone": "678277-6675",
+    "website": "https://aerialphotographylouisville.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "FAA-certified drone services including aerial photography, video, and professional drone inspections across Kentucky.",
+    "certifications": [],
+    "services": [
+      "aerial photography",
+      "aerial video",
+      "drone inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:49",
+    "sentiment": null
+  },
+  {
+    "slug": "dronex-services-louisville",
+    "name": "DroneX Services",
+    "city": "Louisville",
+    "state": "NE",
+    "address": "",
+    "lat": 38.2527,
+    "lng": -85.7585,
+    "phone": "1993239091",
+    "website": "https://dronexservices.com/drone-inspection-services-in-lexington-ne/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert drone solutions for agriculture, construction, inspections, and search-and-rescue in Lexington, NE.",
+    "certifications": [],
+    "services": [
+      "drone inspections",
+      "agriculture",
+      "construction",
+      "search-and-rescue"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:13",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "keywords": [
+        "professional",
+        "reliable",
+        "exceptional",
+        "expertise",
+        "accurate results",
+        "time-saving"
+      ],
+      "highlights": [
+        {
+          "text": "Exceptional service! The drone team provided detailed aerial data that made farm management so much easier.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Professional and reliable! Their inspection drones saved us time and gave accurate results we could trust.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The team's knowledge and technology exceeded our expectations and delivered great results.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "DroneX Services has exceptional reputation with consistently 5-star reviews praising their professional expertise, reliable technology, and ability to deliver accurate results efficiently."
+    }
+  },
+  {
+    "slug": "the-future-3d-louisville",
+    "name": "THE FUTURE 3D",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2527,
+    "lng": -85.7585,
+    "phone": "347-998-1464",
+    "website": "https://www.thefuture3d.com/services/drone-inspections/louisville/",
+    "email": "info@thefuture3d.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "FAA-certified drone inspection services for roofs, facades, bridges, and infrastructure using thermal imaging and HD video.",
+    "certifications": [],
+    "services": [
+      "roof inspections",
+      "facade inspections",
+      "bridge inspections",
+      "thermal imaging"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:49",
+    "sentiment": null
+  },
+  {
+    "slug": "the-drone-ranger-louisville",
+    "name": "The Drone Ranger",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2527,
+    "lng": -85.7585,
+    "phone": "",
+    "website": "https://www.thedronerangerky.com/drone-inspection-services",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializing in aerial cell tower inspections using commercial drones in Louisville and Lexington.",
+    "certifications": [],
+    "services": [
+      "cell tower inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:49",
+    "sentiment": null
+  }
+]

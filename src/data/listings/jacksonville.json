@@ -1,0 +1,113 @@
+[
+  {
+    "slug": "apex-roofing-contracting-jacksonville",
+    "name": "Apex Roofing & Contracting",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "1777220371",
+    "website": "https://apexroofingfl.com/drone-inspections/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Drone inspections for residential and commercial roofs, providing precise non-invasive assessments.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:53",
+    "sentiment": null
+  },
+  {
+    "slug": "building-diagnostics-group-jacksonville",
+    "name": "Building Diagnostics Group",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "(888) 317-4568",
+    "website": "https://www.bdg-usa.com/lc/uav-drone-thermal-inspection-services-jacksonville-florida.html",
+    "email": "contact@bdg-usa.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "UAV drone thermal inspections for multi-family, commercial, industrial buildings, specializing in water intrusion detection.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:53",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "efficient",
+        "problem detection",
+        "cost-saving",
+        "informative",
+        "non-intrusive",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "I would never buy another property without this service.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "BDG saved us thousands of dollars and also saved us from a huge headache.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Quick, efficient and extremely informative.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Without any inconvenience or intrusive testing they successfully pinpointed structural problems.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Building Diagnostics Group receives consistently strong praise for efficient, non-intrusive diagnostic services that detect critical problems early, save clients significant money, and deliver reliable, informative results."
+    }
+  },
+  {
+    "slug": "volatus-unmanned-services-jacksonville",
+    "name": "Volatus Unmanned Services",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "1712780892",
+    "website": "https://connexicore.com/florida-drone-services/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "High-quality drone-based images, video, data analysis, surveying, and mapping across Florida with FAA certified pilots.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:53",
+    "sentiment": null
+  }
+]

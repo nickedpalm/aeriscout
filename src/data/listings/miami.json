@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "skydata-uav-miami",
+    "name": "SkyData UAV",
+    "city": "Miami",
+    "state": "FL",
+    "address": "",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "phone": "1744312136",
+    "website": "https://skydatauav.com",
+    "email": "david@skydatauav.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Drone fa\u00e7ade surveys and high-rise condominium inspections for structural engineering and construction firms.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:53",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "experienced",
+        "Part 107 licensed",
+        "professional",
+        "high-resolution imaging",
+        "3D modeling",
+        "FAA compliant",
+        "safety-focused",
+        "insured"
+      ],
+      "highlights": [
+        {
+          "text": "More than 90 high-rise buildings surveyed",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Part 107 licensed pilots with specialized expertise and equipment",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Advanced 3D modeling enables you to pinpoint deficiencies and produce organized timely reports",
+          "sentiment": "positive"
+        },
+        {
+          "text": "$5 million liability insurance policy",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "SkyData UAV is a highly credible drone survey provider with extensive experience, proper FAA/OSHA compliance, and strong professional credentials."
+    }
+  },
+  {
+    "slug": "sunshine-state-aerial-inspections-miami",
+    "name": "Sunshine State Aerial Inspections",
+    "city": "Miami",
+    "state": "FL",
+    "address": "",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "phone": "2545352419",
+    "website": "https://www.sunshinestateaerialinspections.com",
+    "email": "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "High-resolution aerial inspections of buildings, roofs, post-storm damage, bridges, power lines, solar panels.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:53",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "thorough",
+        "high-quality footage",
+        "clear imagery",
+        "drone expertise",
+        "highly recommended"
+      ],
+      "highlights": [
+        {
+          "text": "The footage was thorough, professional, and delivered with impressive clarity.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Highly recommended for anyone needing top-notch drone inspection services!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Working with Joe for the drone inspection was a game-changer.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Exceptional positive review praising professional expertise, thorough inspection work, and outstanding image quality with strong recommendation."
+    }
+  }
+]

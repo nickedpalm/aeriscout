@@ -1,0 +1,365 @@
+[
+  {
+    "slug": "aerial-drone-scan-atlanta",
+    "name": "Aerial Drone Scan",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "(404) 383-4001",
+    "website": "https://aerialdronescan.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Drone services for inspections, construction monitoring, drone mapping, 2D & 3D mapping, LiDAR mapping, roof inspection, solar panel inspection, power line inspection, and real estate photos/videos.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:44",
+    "sentiment": null
+  },
+  {
+    "slug": "building-diagnostics-group-atlanta",
+    "name": "Building Diagnostics Group",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "(404) 946-9939",
+    "website": "https://www.bdg-usa.com",
+    "email": "contact@bdg-usa.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "UAV drone thermal inspection services for building energy loss, material failures, insulation issues, roofing inspections, building moisture investigations, and non-destructive detection of water intrusions; FAA authorized with FLIR-equipped aircraft.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:44",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.97,
+      "keywords": [
+        "efficient",
+        "informative",
+        "cost-effective",
+        "reliable",
+        "quick",
+        "non-intrusive"
+      ],
+      "highlights": [
+        {
+          "text": "BDG saved us thousands of dollars and saved us from a huge headache",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I would never buy another property without this service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Quick, efficient and extremely informative",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Successfully pinpointed structural problems before building commissioning",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "All reviews are overwhelmingly positive, praising Building Diagnostics Group for efficiency, cost savings, reliability, and providing actionable insights with minimal disruption."
+    }
+  },
+  {
+    "slug": "cga-solutions-atlanta",
+    "name": "CGA Solutions",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "866-217-8581",
+    "website": "https://cga-solutions.com/faa-approved-drone-services/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "FAA-approved drone services for inspections and visuals, licensed in Georgia and South Carolina, serving all regions of GA with investigative and non-investigative drone applications.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:44",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "trustworthy",
+        "thorough",
+        "professional",
+        "reliable",
+        "dedicated",
+        "responsive"
+      ],
+      "highlights": [
+        {
+          "text": "He provided top shelf service and did more for my client than he really had to do.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "never let me down, despite me springing last minute issues on them! Highly recommended!!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I would probably still be in prison today if it were not for Alex Chilton and his superb investigative skills.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "quick and thorough work. I will be happy to recommend you to anyone who might need your services.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive reviews praising exceptional, trustworthy service with strong client loyalty and professional dedication across multiple client relationships."
+    }
+  },
+  {
+    "slug": "flyguys-atlanta",
+    "name": "FlyGuys",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "",
+    "website": "https://flyguys.com/georgia/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "National network of FAA-certified drone pilots offering drone inspections for wind turbines, solar farms, oil rigs, LiDAR, RGB, and multispectral data collection in cities including Atlanta, Augusta, Savannah, Athens, Macon, Columbus, Alpharetta, Albany, Valdosta, and Rome.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:44",
+    "sentiment": null
+  },
+  {
+    "slug": "flyworx-atlanta",
+    "name": "FlyWorx",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "(844) 359-9679",
+    "website": "https://www.flyworx.co",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Nationwide drone services including aerial mapping, building inspections, commercial real estate, data analysis, custom software, serving film, TV, CRE, and construction.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:44",
+    "sentiment": null
+  },
+  {
+    "slug": "georgia-drone-services-atlanta",
+    "name": "Georgia Drone Services",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "",
+    "website": "https://www.georgiadroneservices.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "FAA 333 Exemption Holder and Part 107 Certified UAV company providing aerial photography, drone video, and inspections of industrial equipment including cell towers, water towers, power lines, antennas, wind mills, smoke stacks, pipelines, solar panels, and bridges.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:44",
+    "sentiment": null
+  },
+  {
+    "slug": "lunspro-inspection-group-atlanta",
+    "name": "LunsPro Inspection Group",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "6249999999",
+    "website": "https://www.lunspro.com/drone-inspections",
+    "email": "example@domain.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Home inspection company offering free drone inspections with every home inspection in the Southeast for hard-to-reach areas like roofs; all inspectors are FAA certified drone pilots.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:44",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "thorough",
+        "knowledgeable",
+        "helpful",
+        "experienced",
+        "amazing"
+      ],
+      "highlights": [
+        {
+          "text": "They exceeded my expectations. Tim answered all my questions and was EXTREMELY thorough.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Wes Olley is the go to guy! Very thorough, knowledgeable, explained everything well.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Joe did an amazing job and even called to explain the report for stress-free inspection.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Great experience! On time, informative, very professional, with detailed report notes.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "LunsPro Inspection Group consistently receives glowing reviews for professional, thorough inspections and exceptional customer service from experienced, knowledgeable inspectors."
+    }
+  },
+  {
+    "slug": "nadar-drone-atlanta",
+    "name": "Nadar Drone",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "4795656673",
+    "website": "https://www.nadardrone.com/atlanta-ga/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "FAA certified and insured drone services for building and roof inspections including highrises, commercial multi-unit residential, infrared imaging, 3D roof measurements, high resolution photography, videography, real estate, construction, surveying, and agriculture.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:44",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "responsive",
+        "seamless",
+        "excellent communication",
+        "aerial imagery quality",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "My experience with Nadar was seamless",
+          "sentiment": "positive"
+        },
+        {
+          "text": "out on site the day after we told them of the rush",
+          "sentiment": "positive"
+        },
+        {
+          "text": "5-star service on every project",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Jeff and his team are top class professionals",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Nadar Drone receives overwhelmingly positive reviews emphasizing seamless service, exceptional responsiveness, professional execution, and excellent communication across all client projects."
+    }
+  },
+  {
+    "slug": "sky-data-services-atlanta",
+    "name": "Sky Data Services",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "3333333333",
+    "website": "https://skydataservices.com",
+    "email": "filler@godaddy.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Drone photography, video production, and inspections with emphasis on field safety and FAA compliance for building consulting.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:44",
+    "sentiment": null
+  }
+]

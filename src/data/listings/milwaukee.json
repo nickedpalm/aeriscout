@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "anderson-home-inspection-services-milwaukee",
+    "name": "Anderson Home Inspection Services",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "262-534-5075",
+    "website": "https://anspect.com/anderson-home-inspection-drone-aerial-services/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "FAA certified drone home inspection services in Milwaukee and SE Wisconsin, accessing difficult areas for home inspections.",
+    "certifications": [],
+    "services": [
+      "drone home inspections",
+      "aerial inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:12",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.78,
+      "keywords": [
+        "professional",
+        "thorough",
+        "drone inspection",
+        "roof inspection",
+        "certified",
+        "award-winning",
+        "experienced"
+      ],
+      "highlights": [
+        {
+          "text": "Angie's List Super Service Award honors excellence among home service pros who maintain superior service ratings",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Within FAA guidelines, Donn typically inspects roof coverings, chimneys and flashings that can't be inspected by those who can't access steep roofs",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Certified drone inspection helps solve accessing difficult areas that you cannot inspect from the ground",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Anderson Home Inspection Services is positioned as a professional, award-recognized provider known for thorough inspections using specialized drone technology to access difficult-to-reach areas that typical home inspectors skip."
+    }
+  },
+  {
+    "slug": "badger-state-drone-milwaukee",
+    "name": "Badger State Drone",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "3333333333",
+    "website": "https://badgerstatedrone.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional drone services for real estate, events, weddings using cutting-edge technology.",
+    "certifications": [],
+    "services": [
+      "real estate photography",
+      "event imaging",
+      "weddings"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:12",
+    "sentiment": null
+  },
+  {
+    "slug": "mke-drones-milwaukee",
+    "name": "MKE Drones",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "1512882167",
+    "website": "https://www.mkedrones.com/consulting",
+    "email": "cody@mkedrones.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "UAS and drone consulting services in Milwaukee and Southeastern Wisconsin, including fleet setup, maintenance, and management.",
+    "certifications": [],
+    "services": [
+      "drone consulting",
+      "fleet management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:12",
+    "sentiment": null
+  },
+  {
+    "slug": "volatus-unmanned-services-milwaukee",
+    "name": "Volatus Unmanned Services",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "(855) 330-1780",
+    "website": "https://connexicore.com/wisconsin-drone-services/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "High-quality, cost-effective drone-based images, video, data for analysis, surveying, mapping, and inspections statewide including Milwaukee, Madison, Green Bay, Kenosha, Racine.",
+    "certifications": [],
+    "services": [
+      "surveying",
+      "mapping",
+      "inspections",
+      "aerial imaging"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:12",
+    "sentiment": null
+  }
+]

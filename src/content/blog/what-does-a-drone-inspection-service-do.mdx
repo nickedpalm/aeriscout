@@ -1,0 +1,109 @@
+---
+title: "What Does a Drone Inspection Service Actually Do? (Behind the Scenes)"
+description: "A drone inspection service is 20% flying and 80% everything else. This AeriScout breakdown covers all four stages, from airspace auth to annotated report."
+pubDate: 2026-04-26
+author: "Nick Palmer"
+tags: ["drone inspection service", "industrial", "guide"]
+hub: "The Complete Guide to Drone Inspection Services"
+---
+
+The first time I got to a job site with a drone and no idea what I was actually selling, I told the facility manager it would "take about 20 minutes." Three hours later, I was still on site — waiting on an airspace authorization, reconfiguring my sensor payload for the thermal portion, and explaining to a very patient operations director why I needed access to his SCADA drawings before I could fly the boiler stack.
+
+Nobody tells you that drone inspection services are 20% flying and 80% everything else.
+
+> **The Short Version:** A drone inspection service handles a four-stage workflow — pre-flight planning, data capture, processing, and report delivery — not just the "cool drone footage" part. The value isn't the flight. It's the georeferenced 3D model, the thermal anomaly overlay, and the annotated report that your maintenance team can actually act on.
+
+## Key Takeaways
+
+- FAA Part 107 certification is the legal floor — legitimate providers also carry liability insurance and file airspace authorizations before every flight
+- Modern drone inspections follow a repeatable four-stage process from site planning to final deliverable
+- The real differentiator between providers is sensor selection and processing capability, not the drone itself
+- Automated waypoint missions mean year-over-year data is actually comparable — manual walkarounds are not
+
+---
+
+## Stage One: Pre-Flight Planning (The Part Nobody Sees)
+
+Before anything leaves the ground, a legitimate provider is doing serious prep work.
+
+That means pulling your asset's drawings or site maps, checking controlled airspace (LAANC authorization if you're near an airport), reviewing weather windows, and selecting the right sensor payload for the job. RGB camera for structural cracks and general documentation. Thermal imager for hot spots, water intrusion behind membranes, or electrical anomalies. Multispectral for solar farm efficiency mapping.
+
+> **Reality Check:** If a provider shows up without having asked for site drawings, sensor requirements, or airspace information in advance, that's a red flag. They're winging it — and the data quality will show.
+
+The sensor choice matters more than most buyers realize. A $2,000 RGB camera and a $15,000 radiometric thermal sensor are categorically different tools. Make sure you've talked through what defects you're actually trying to find before anyone shows up on site.
+
+---
+
+## Stage Two: Data Capture (The Part Everyone Pictures)
+
+This is the flight. It's usually the shortest phase.
+
+For most commercial inspections, pilots program automated waypoint missions — the drone flies a pre-set grid pattern at a consistent altitude and overlap percentage, ensuring every square foot of the asset gets captured with the same resolution. This isn't just efficiency. It's what makes repeat inspections actually useful: fly the same mission six months later and you have apples-to-apples data showing whether that crack propagated.
+
+For tight spaces — cell tower climbing inspections, turbine blade inspections, bridge underside work — pilots switch to manual flight with a high-zoom payload. RTK-enabled systems achieve centimeter-level geographic accuracy, which means the crack you flagged in March can be precisely re-located in September.
+
+BVLOS (Beyond Visual Line of Sight) operations take this further for infrastructure like pipelines and transmission lines, where drones can cover thousands of kilometers without the pilot repositioning. That used to require regulatory carve-outs. It's becoming standard practice.
+
+What replaces the work: scaffolding setups that took days get replaced by single flights. Cell tower climbers who were putting bodies at risk get replaced by 4K zoom payloads. Nobody has to enter the boiler.
+
+---
+
+## Stage Three: Processing (Where the Value Actually Lives)
+
+Raw footage is not a deliverable.
+
+After the flight, data goes into processing software that stitches thousands of overlapping images into orthomosaics (georeferenced 2D maps) and 3D point clouds. For a typical roof inspection, this produces a dimensionally accurate model where you can measure ponding areas, calculate drainage slopes, and locate membrane damage — all without anyone getting back on the roof.
+
+AI-assisted analysis layers on top of that: automated defect detection for concrete cracks, steel corrosion, hot spots in thermal data, and water intrusion behind walls. The system flags anomalies. A human analyst reviews and classifies them.
+
+> **Pro Tip:** Ask your provider what processing software they use and whether they deliver the raw project files. Some providers lock deliverables behind proprietary platforms. If you want to import measurements into your own asset management system, you need the raw data.
+
+This stage is what separates commodity drone operators from inspection-grade providers. Anyone with a Part 107 certificate can fly. Not everyone can deliver a georeferenced 3D model with annotated defect classifications.
+
+---
+
+## What the Final Report Actually Contains
+
+| Deliverable | What It Is | Who Uses It |
+|---|---|---|
+| Geotagged photo set | High-res images with GPS coordinates | Maintenance teams, insurers |
+| Orthomosaic | Stitched 2D map, dimensionally accurate | GCs, facilities managers |
+| 3D point cloud / mesh | Navigate the asset digitally | Engineers, asset managers |
+| Thermal overlay | Hot spots, moisture, electrical anomalies | Electricians, roofers, energy auditors |
+| Annotated defect report | Flagged issues with severity classifications | Decision makers, compliance |
+
+Turnaround is typically 24–48 hours for standard inspections. Complex industrial sites with thermal analysis can run longer.
+
+---
+
+## The Compliance Layer (It's Not Optional)
+
+FAA Part 107 certification is the legal baseline for commercial drone operations in the U.S. It covers airspace rules, weather minimums, and operational restrictions. Providers working near airports need LAANC authorization or a waiver. BVLOS operations require additional FAA approval.
+
+I'll be honest: a lot of the cheapest quotes you'll find are from operators flying without proper authorization, without insurance, and without the documentation chain that protects you when something goes wrong on your property.
+
+For industrial facilities, utilities, and anyone who needs defensible inspection records for insurance or regulatory purposes — the compliance paperwork is as important as the data itself.
+
+---
+
+## Common Challenges (And What Good Providers Do About Them)
+
+Wind above 15–20 mph degrades data quality and can require rescheduling. Thermal inspections need specific lighting and temperature delta conditions — you can't fly a meaningful roof thermal at noon in July. Confined space inspections near metal structures create GPS interference that requires manual piloting skill.
+
+> **Reality Check:** Good providers build schedule buffers for weather and tell you upfront about thermal inspection windows. If a provider promises thermal data without discussing optimal conditions, ask more questions.
+
+---
+
+## Practical Bottom Line
+
+Here's what actually matters when you hire a drone inspection service:
+
+**Before you book:** Know what defect type you're hunting. Structural cracking needs high-res RGB. Thermal anomalies need a radiometric payload. Solar performance needs multispectral. Tell the provider what you need to find, not just what you want to inspect.
+
+**When evaluating providers:** Ask for a sample deliverable from a similar asset type. Ask whether they use automated waypoint missions (good) or purely manual flights (fine for some applications, but not repeatable). Ask what software they process in and whether you get the raw files.
+
+**After delivery:** The report should include geotagged images, a measurement-capable 2D or 3D model, and annotated defect flags with severity classifications. If you're getting a folder of unlabeled JPEGs, that's not an inspection — that's footage.
+
+For a deeper look at scope, pricing, and how to evaluate providers across different asset types, see [The Complete Guide to Drone Inspection Services](/blog/complete-guide-drone-inspection-services/).
+
+The drone is just the delivery mechanism. What you're paying for is the data.

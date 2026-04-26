@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "cm-drone-services-llc-burlington",
+    "name": "CM Drone Services LLC",
+    "city": "Burlington",
+    "state": "KY",
+    "address": "4050 Akin Lane, Burlington, KY 41005",
+    "lat": 44.4759,
+    "lng": -73.2121,
+    "phone": "844-DOCUFLY",
+    "website": "https://cm-drone.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional drone services including aerial photography, video, mapping, and property inspections via Docu-Fly division.",
+    "certifications": [],
+    "services": [
+      "aerial photography",
+      "aerial mapping",
+      "property inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:49",
+    "sentiment": null
+  }
+]

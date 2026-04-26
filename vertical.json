@@ -1,0 +1,166 @@
+{
+  "name": "Drone Inspection Services",
+  "brandName": "AeriScout",
+  "slug": "aeriscout",
+  "domain": "aeriscout.com",
+  "siteUrl": "https://aeriscout.com",
+  "tagline": "FAA-certified drone inspectors, independently rated.",
+  "description": "The most comprehensive directory of FAA Part 107-certified drone inspection pilots, UAV thermography specialists, and aerial survey operators in the United States.",
+  "jobValue": "$500-3,500 per inspection",
+  "industry": "industrial",
+  "primaryKeyword": "drone inspection service",
+  "secondaryKeywords": [
+    "UAV inspection service",
+    "aerial inspection company",
+    "commercial drone pilot",
+    "FAA Part 107 certified inspector",
+    "thermal drone inspection",
+    "aerial survey service"
+  ],
+  "certifications": [
+    "FAA Part 107 Remote Pilot Certificate",
+    "AUVSI Certified UAS Professional (CUSP)",
+    "ITC Level I Thermography Certification",
+    "ASNT Level II Infrared Thermography",
+    "OSHA 10-Hour Construction Safety",
+    "FEMA IS-1505 UAS Disaster Operations"
+  ],
+  "extraFields": [],
+  "cityPagePromptContext": "Drone inspection services use FAA Part 107-certified pilots operating commercial UAVs to inspect rooftops, cell towers, power lines, bridges, solar arrays, and industrial facilities.\nEquipped with RGB, thermal, and multispectral cameras, pilots capture high-resolution imagery and thermal anomaly data without scaffolding or rope access.\nGeneral contractors hire them for construction progress documentation and roof assessments; utilities contract them for transmission line and tower surveys; insurers dispatch them after hail storms and hurricanes for rapid loss documentation.\nReports include geotagged photo sets, thermal overlays, and measurement data typically delivered within 24-48 hours.\n",
+  "contactEmail": "contact@aeriscout.com",
+  "buyerPersona": "general contractors, utilities, and insurers",
+  "servicePhrase": "drone inspection",
+  "primaryCredential": "FAA Part 107",
+  "buyerSearchContext": "when assessing storm damage, inspecting infrastructure, documenting construction progress, or filing insurance claims requiring aerial evidence",
+  "editorialAuthor": {
+    "name": "Nick Palmer",
+    "title": "Founder & Lead Researcher",
+    "bio": "Nick built this directory to help general contractors and risk managers find FAA Part 107-certified drone inspectors without wading through generalist photography outfits that added a drone as an upsell \u2014 a conflict of interest he ran into when trying to document storm damage on a commercial roof and couldn\u2019t tell which operators carried the commercial liability insurance to back their reports.",
+    "linkedin": "https://linkedin.com/in/nickedpalmer"
+  },
+  "stripeSponsoredLink": "",
+  "stripeCityProLink": "",
+  "stripeFeaturedMonthlyLink": "https://buy.stripe.com/eVqdR80YO7lCftO2o1a3u3A",
+  "stripeFeaturedAnnualLink": "https://buy.stripe.com/28E9ASazo6hy1CYfaNa3u3B",
+  "stripeCityProMonthlyLink": "https://buy.stripe.com/dRm9ASbDsdK0dlGbYBa3u3C",
+  "stripeCityProAnnualLink": "https://buy.stripe.com/8x29ASazocFWchC3s5a3u3D",
+  "stripeFeaturedProductId": "prod_UFN2Bdt1uZXQxB",
+  "stripeCityProProductId": "prod_UFN2HaUx9Us3vi",
+  "stripeFeaturedMonthlyPriceId": "price_1TQZ2dCIgRyRDQ2PyhE6TaKJ",
+  "stripeFeaturedAnnualPriceId": "price_1TQZ2eCIgRyRDQ2PaTR14cBZ",
+  "stripeCityProMonthlyPriceId": "price_1TQZ2gCIgRyRDQ2Pj0fSYYgp",
+  "stripeCityProAnnualPriceId": "price_1TQZ2hCIgRyRDQ2PN3eLZCoD",
+  "pricing": {
+    "featuredMonthlyUsd": 49,
+    "featuredAnnualUsd": 441,
+    "cityProMonthlyUsd": 149,
+    "cityProAnnualUsd": 1341
+  },
+  "listmonkListId": "22",
+  "listmonkTplMagicLink": "47",
+  "listmonkTplLeadNotify": "48",
+  "listmonkTplGuideDelivery": "49",
+  "ga4MeasurementId": "G-MGVQD07HD1",
+  "turnstileSitekey": "",
+  "turnsiteSitekey": "",
+  "googleAnalyticsId": "G-MGVQD07HD1",
+  "foundedYear": 2026,
+  "listings": {
+    "schema": [
+      {
+        "key": "faa_part_107",
+        "type": "boolean",
+        "label": "FAA Part 107 Certified",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for FAA Part 107 certificate numbers, explicit 'FAA certified' or 'Part 107 licensed' statements on homepage, about page, or footer; also check for TRUST certificates or FAA DroneZone registration mentions."
+      },
+      {
+        "key": "years_experience",
+        "type": "number",
+        "label": "Years of Experience",
+        "display": "range",
+        "facet": false,
+        "unit": "years",
+        "scrape_hint": "Extract from ''About Us'', team bios, or ''10+ years of commercial drone operations'' statements; calculate from founding year if business start date is provided."
+      },
+      {
+        "key": "inspection_specialties",
+        "type": "multi_enum",
+        "label": "Inspection Specialties",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Rooftop & Facade",
+          "Cell Tower & Antenna",
+          "Power Line & Substation",
+          "Bridge & Civil Infrastructure",
+          "Solar Array",
+          "Construction Progress"
+        ],
+        "scrape_hint": "Scan services menu, homepage offerings, or industry-specific pages; match keywords like ''roof inspection'', ''cell tower survey'', ''transmission line'', ''bridge inspection'', ''solar panel inspection'', or ''construction monitoring''."
+      },
+      {
+        "key": "thermal_imaging_capable",
+        "type": "boolean",
+        "label": "Thermal Imaging Capable",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Check for mentions of ''thermal imaging'', ''infrared inspection'', ''FLIR camera'', ''heat mapping'', or ITC/ASNT thermography certification in services or equipment pages."
+      },
+      {
+        "key": "liability_insurance",
+        "type": "boolean",
+        "label": "Commercial Liability Insured",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for ''$1M liability'', ''commercially insured'', ''hull and liability coverage'', or certificate of insurance mentions on about or FAQ pages; some operators list their insurer by name."
+      },
+      {
+        "key": "report_turnaround",
+        "type": "enum",
+        "label": "Report Turnaround Time",
+        "display": "text",
+        "facet": true,
+        "enum": [
+          "Same Day",
+          "24-48 Hours",
+          "3-5 Business Days",
+          "1 Week+"
+        ],
+        "scrape_hint": "Extract from service descriptions, FAQs, or ''What to Expect'' sections; look for phrases like ''deliverables within 24 hours'' or ''report ready in 2 business days''."
+      },
+      {
+        "key": "service_types",
+        "type": "multi_enum",
+        "label": "Clients & Industries Served",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Residential",
+          "Commercial & Industrial",
+          "Utilities & Energy",
+          "Insurance & Claims",
+          "Government & Emergency Management"
+        ],
+        "scrape_hint": "Parse ''Industries Served'' or ''Who We Work With'' sections; match keywords like ''insurance adjusters'', ''utilities'', ''general contractors'', ''municipalities'', or ''emergency response''."
+      },
+      {
+        "key": "phone",
+        "type": "phone",
+        "label": "Phone Number",
+        "display": "text",
+        "facet": false,
+        "scrape_hint": "Extract from header, footer, contact page, or click-to-call buttons; normalize to standard format (e.g., (555) 123-4567)."
+      },
+      {
+        "key": "website",
+        "type": "url",
+        "label": "Website",
+        "display": "link",
+        "facet": false,
+        "scrape_hint": "Capture primary domain from browser address bar, homepage links, or business listings; ensure full URL with https:// protocol."
+      }
+    ]
+  }
+}

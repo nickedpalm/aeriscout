@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "from-above-droneworks-el-paso",
+    "name": "From Above Droneworks",
+    "city": "El Paso",
+    "state": "TX",
+    "address": "",
+    "lat": 31.7619,
+    "lng": -106.485,
+    "phone": "",
+    "website": "https://www.fromabovedroneworks.com/drone-structural-inspections-el-paso",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Drone structural inspections for construction, energy, infrastructure, telecommunications with high-resolution images.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:46",
+    "sentiment": null
+  }
+]

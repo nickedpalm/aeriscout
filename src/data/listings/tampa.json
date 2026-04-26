@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "acu-system-tampa",
+    "name": "Acu System",
+    "city": "Tampa",
+    "state": "FL",
+    "address": "",
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "phone": "1777220323",
+    "website": "https://www.goacusystem.com/home-property-drone-inspections/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "FAA certified drone inspections for homes and buildings in Tampa and surrounding counties.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:01:53",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "slug": "aerialassetreport-oklahoma-city",
+    "name": "AerialAssetReport",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "Not provided",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "Not provided",
+    "website": "https://aerialassetreport.com/best-drone-services-okc",
+    "email": "hello@rfuenzalida.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Aerial solutions for marketing, security surveillance, and infrastructure inspection with tailored solutions",
+    "certifications": [],
+    "services": [
+      "aerial photography",
+      "aerial video",
+      "security surveillance",
+      "infrastructure inspection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:01",
+    "sentiment": null
+  },
+  {
+    "slug": "hover-visions-llc-oklahoma-city",
+    "name": "Hover Visions LLC",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "Not provided",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "Not provided",
+    "website": "https://hovervisions.com",
+    "email": "dparrish@hovervisions.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional drone services with FAA licensed private pilot owner Dale Parrish, over 2000 hours of UAV flight time, zero accident flight record since April 2014",
+    "certifications": [],
+    "services": [
+      "aerial photos",
+      "mapping",
+      "inspections",
+      "multi-rotor UAV services",
+      "fixed wing UAV services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:01",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "detail-oriented",
+        "knowledgeable",
+        "trustworthy",
+        "expert",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "Great attention to detail and professional results. Happy to recommend this company.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Dale is extremely knowledgeable and capable.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We continue to trust them with our projects.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Hover Visions consistently receives praise for professional expertise, meticulous attention to detail, and trusted service in aerial mapping and LiDAR solutions."
+    }
+  },
+  {
+    "slug": "nadar-oklahoma-city",
+    "name": "NADAR",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "Not provided",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "Not provided",
+    "website": "https://www.nadardrone.com/oklahoma-city-ok/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier Oklahoma City drone services provider for commercial and residential real estate, construction management, architectural and engineering design, land surveying, mapping, and precision agriculture",
+    "certifications": [],
+    "services": [
+      "real estate advertising",
+      "construction management",
+      "architectural design",
+      "land surveying",
+      "mapping",
+      "event/wedding coverage",
+      "precision agriculture",
+      "building and roof inspection",
+      "infrared imaging",
+      "3D roof measurements",
+      "irrigation site mapping",
+      "high resolution photography and videography"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:01",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "responsive",
+        "excellent communication",
+        "quality",
+        "reliable",
+        "service"
+      ],
+      "highlights": [
+        {
+          "text": "Nadar worked with our schedule to get everything we needed as quick as possible",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Jeff and his team are top class professionals. Their services allow my team to avoid lengthy field visits and make our designs much more accurate",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Nadar provides Blanton Turner with 5-star service on every project",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We will be using their services for many years to come",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "NADAR receives unanimous praise across all reviews for exceptional professionalism, rapid response times, outstanding communication, and high-quality aerial imagery services."
+    }
+  },
+  {
+    "slug": "oklahoma-drc-oklahoma-city",
+    "name": "Oklahoma DRC",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "Not provided",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "Not provided",
+    "website": "https://oklahomadrc.com/search-and-rescue/",
+    "email": "rhett@oklahomadrc.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Advanced drone services with high-resolution cameras and thermal imaging for search and rescue operations and safety inspections",
+    "certifications": [],
+    "services": [
+      "search and rescue",
+      "thermal imaging",
+      "safety inspections",
+      "high-resolution aerial views"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:01",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "fast response",
+        "professional",
+        "effective",
+        "reliable",
+        "responsive",
+        "affordable"
+      ],
+      "highlights": [
+        {
+          "text": "They literally found him in less than 60 seconds after 4 people had been searching for an hour!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Absolutely the best group of pilots in the state. Top notch equipment.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "You can't put a price on peace of mind and I wouldn't have that without you guys.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Rhett is fantastic! Super easy to work with and very responsive.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Oklahoma DRC has near-universal praise for exceptionally fast search times, professional staff, reliable equipment, and consistent success in recovering lost animals\u2014creating strong customer loyalty and word-of-mouth recommendations."
+    }
+  },
+  {
+    "slug": "red-river-drone-services-oklahoma-city",
+    "name": "Red River Drone Services",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "Not provided",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "Not provided",
+    "website": "Not provided",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert aerial photography, videography, and inspection services across Oklahoma and Texas",
+    "certifications": [],
+    "services": [
+      "aerial photography",
+      "videography",
+      "inspections"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:01",
+    "sentiment": null
+  },
+  {
+    "slug": "skye-link-oklahoma-city",
+    "name": "Skye Link",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "Not provided",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "Not provided",
+    "website": "https://skyelink.org/location/drone-services-oklahoma/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional drone services offering aerial inspections, drone photography, sUAS training/consulting, and aerial mapping for renewable energy, utilities, construction, engineering, surveying, and commercial real estate",
+    "certifications": [],
+    "services": [
+      "solar farm inspections",
+      "powerline utility pole inspections",
+      "commercial roof inspections",
+      "cell tower inspections",
+      "thermal inspections",
+      "LiDAR mapping",
+      "infrared mapping"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:01",
+    "sentiment": null
+  },
+  {
+    "slug": "sooner-drone-oklahoma-city",
+    "name": "Sooner Drone",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "Not provided",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "Not provided",
+    "website": "Not provided",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional aerial photography, videography, and drone services specializing in real estate, inspections, and mapping",
+    "certifications": [],
+    "services": [
+      "aerial photography",
+      "videography",
+      "property inspections",
+      "drone surveying",
+      "mapping"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:01",
+    "sentiment": null
+  },
+  {
+    "slug": "volatus-unmanned-services-oklahoma-city",
+    "name": "Volatus Unmanned Services",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "Not provided",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "Not provided",
+    "website": "https://connexicore.com/oklahoma-drone-services/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "High-quality, cost-effective drone-based images, video and data for analysis, surveying, mapping with FAA certified pilots",
+    "certifications": [],
+    "services": [
+      "aerial inspections",
+      "surveying",
+      "mapping",
+      "drone photography",
+      "video analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:06:01",
+    "sentiment": null
+  }
+]

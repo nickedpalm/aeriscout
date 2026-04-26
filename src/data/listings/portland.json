@@ -1,0 +1,103 @@
+[
+  {
+    "slug": "flyworx-portland",
+    "name": "FlyWorx",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Not provided",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "(844) 359-9679",
+    "website": "https://www.flyworx.co/portland-seattle-drone-service-company/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Commercial and custom drone services company serving Oregon and Washington with aerial mapping, building inspections, commercial real estate, data analysis, and custom software solutions",
+    "certifications": [],
+    "services": [
+      "Aerial Mapping",
+      "Building Inspections",
+      "Commercial Real Estate",
+      "Drone Mapping",
+      "Photogrammetry",
+      "LiDAR",
+      "GIS",
+      "Data Analysis",
+      "Custom Software"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:20",
+    "sentiment": null
+  },
+  {
+    "slug": "nadar-portland",
+    "name": "NADAR",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Not provided",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "Not provided",
+    "website": "https://www.nadardrone.com/portland-or/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "FAA Part 107 certified drone service provider offering commercial and residential real estate advertising, construction management, architectural & engineering design, land surveying & mapping, event/wedding coverage, and precision agriculture",
+    "certifications": [],
+    "services": [
+      "Commercial Real Estate Advertising",
+      "Construction Management",
+      "Architectural & Engineering Design",
+      "Land Surveying & Mapping",
+      "Event/Wedding Coverage",
+      "Precision Agriculture"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:20",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "keywords": [
+        "seamless service",
+        "quick turnaround",
+        "professional",
+        "excellent communication",
+        "high quality",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "My experience with Nadar was seamless",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They were out on site the day after we told them of the rush",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Nadar provides 5-star service on every project",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Jeff and his team are top class professionals",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Nadar has an exceptional reputation for seamless, responsive aerial services with outstanding communication, professional expertise, and consistent high-quality delivery."
+    }
+  }
+]

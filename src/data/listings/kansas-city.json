@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "atmosphere-drones-kansas-city",
+    "name": "Atmosphere Drones",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "phone": "1777220373",
+    "website": "https://www.atmospheredrones.com/thermal-drones-kansas-city-mo/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers thermal drone services including aerial mapping and rigorous inspections for operations analysis.",
+    "certifications": [],
+    "services": [
+      "thermal drone inspections",
+      "aerial mapping"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:51",
+    "sentiment": null
+  },
+  {
+    "slug": "nadar-drone-kansas-city",
+    "name": "Nadar Drone",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "phone": "4795656673",
+    "website": "https://www.nadardrone.com/st-louis-mo/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier drone services provider offering FAA certified and insured pilots for various industries including building and roof inspections.",
+    "certifications": [],
+    "services": [
+      "drone building and roof inspections",
+      "highrise inspections",
+      "infrared imaging",
+      "3D roof measurements"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:51",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "responsive",
+        "quality",
+        "communication",
+        "reliable",
+        "quick-turnaround"
+      ],
+      "highlights": [
+        {
+          "text": "My experience with Nadar was seamless",
+          "sentiment": "positive"
+        },
+        {
+          "text": "5-star service on every project",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Jeff and his team are top class professionals",
+          "sentiment": "positive"
+        },
+        {
+          "text": "will be using their services for many years to come",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Nadar Drone receives consistently glowing reviews for professional service, responsive communication, fast turnaround, and superior aerial imagery quality."
+    }
+  },
+  {
+    "slug": "tesson-roofing-kansas-city",
+    "name": "Tesson Roofing",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "phone": "1777078052",
+    "website": "https://tessonroofing.com/drone-inspection-st-louis-mo",
+    "email": "support@tessonroofing.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides comprehensive drone inspection services for roofs using the latest technology to deliver detailed aerial results.",
+    "certifications": [],
+    "services": [
+      "drone roof inspections",
+      "aerial inspections for hard-to-reach places"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:51",
+    "sentiment": null
+  },
+  {
+    "slug": "western-mass-drones-kansas-city",
+    "name": "Western Mass Drones",
+    "city": "Kansas City",
+    "state": "MA",
+    "address": "",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "phone": "1669913413",
+    "website": "https://www.westernmassdrones.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers professional drone inspection services throughout Springfield, Pittsfield, and Western Massachusetts. FAA-certified and insured team provides safer, faster, and cost-effective inspections for insurance assessments, maintenance, and safety checks.",
+    "certifications": [],
+    "services": [
+      "drone inspections",
+      "insurance assessments",
+      "structural assessments",
+      "preventative maintenance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:03",
+    "sentiment": null
+  }
+]

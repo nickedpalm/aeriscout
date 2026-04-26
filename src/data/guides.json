@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "drone-inspection-planning-checklist",
+    "title": "Drone Inspection Planning Checklist",
+    "subtitle": "Speed up inspections while ensuring FAA compliance",
+    "description": "Plan drone inspections confidently with FAA Part 107 certified operators. Walk through site prep, airspace clearance, and regulatory documentation\u2014so contractors get faster timelines, utilities verify infrastructure safely, and insurers validate claims.",
+    "bullets": [
+      "Identify airspace hazards before booking drones",
+      "FAA Part 107 compliance checklist for auditors",
+      "Equipment and site-prep templates cut setup time",
+      "Step-by-step inspection workflow for roofs, utilities, claims"
+    ],
+    "pdfUrl": "/guides/pdf/drone-inspection-planning-checklist.pdf",
+    "category": "How-To"
+  },
+  {
+    "slug": "drone-inspection-rate-guide-2026",
+    "title": "Drone Inspection Rate Guide 2026",
+    "subtitle": "Benchmark pricing for your drone inspection services",
+    "description": "Compare your rates against FAA Part 107 certified providers. This guide breaks down hourly costs, project-based pricing, and market positioning for general contractors, utilities, and insurance assessments.",
+    "bullets": [
+      "Hourly rates across 12 service categories (infrastructure, solar, roofing, tower inspection)",
+      "How Part 107 certification affects pricing vs. non-certified alternatives",
+      "Project minimums and insurance add-ons that drive customer ROI",
+      "Regional pricing variations and what major contractors actually pay in 2026"
+    ],
+    "pdfUrl": "/guides/pdf/drone-inspection-rate-guide-2026.pdf",
+    "category": "Pricing"
+  },
+  {
+    "slug": "drone-inspector-vetting-guide",
+    "title": "Drone Inspector Vetting Guide",
+    "subtitle": "How to vet certified, insured drone service providers",
+    "description": "Contractors, utilities, and insurers need reliable drone inspectors. This guide covers FAA Part 107 verification, insurance requirements, cost benchmarks, and red flags\u2014so you hire qualified vendors with zero compliance surprises.",
+    "bullets": [
+      "Verify FAA Part 107 certification, insurance, and liability coverage limits",
+      "Compare rates: typical drone inspections cost $150\u2013$300/hour by complexity",
+      "Assess experience across utilities, towers, roofing, and infrastructure work",
+      "Spot experience gaps, equipment liability, and contract red flags"
+    ],
+    "pdfUrl": "/guides/pdf/drone-inspector-vetting-guide.pdf",
+    "category": "Vetting"
+  }
+]
